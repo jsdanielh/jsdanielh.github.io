@@ -1,0 +1,7 @@
+# Site settings
+title: jsdanielh
+description: JD Hernandez
+keywords: jsdanielh, JD, Hernandez
+author: JD Hernandez
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
